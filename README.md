@@ -196,4 +196,13 @@ write.csv(avg_trips, file='avg_trips.csv')
 
 ## 3. Tableau
 
-test
+I created the following charts in Tableau to better visually represent the data and my results.
+<br>
+
+![Number of rides per day per member type](images/sheet1.png "number")
+
+<br>
+
+![Average ride length](images/sheet2.png "average")
+
+![Member profile applied to casual members](images/profile.svg"profile")
