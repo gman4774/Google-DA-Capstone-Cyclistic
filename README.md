@@ -203,8 +203,8 @@ I created the following charts in Tableau to better visually represent the data 
 
 <br>
 
-![Average ride length](sheet2.png "average")
+![Average ride length](https://raw.githubusercontent.com/gman4774/Google-DA-Capstone-Cyclistic/main/Sheet2.png?token=AUHBCPDZANT2JPGV5FO5J2TBM4L7W "average")
 
 <br>
 
-![Member profile applied to casual members](profile.svg"profile")
+![Member profile applied to casual members](https://raw.githubusercontent.com/gman4774/Google-DA-Capstone-Cyclistic/b0b52335968d3df8d151e8aa6deb6b591c88a02a/profile.svg?token=AUHBCPE24CHZC5D4BQ3LBZ3BM4L7E "profile")
