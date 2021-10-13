@@ -208,3 +208,9 @@ I created the following charts in Tableau to better visually represent the data 
 <br>
 
 ![Member profile applied to casual members](https://raw.githubusercontent.com/gman4774/Google-DA-Capstone-Cyclistic/b0b52335968d3df8d151e8aa6deb6b591c88a02a/profile.svg?token=AUHBCPE24CHZC5D4BQ3LBZ3BM4L7E "profile")
+
+<br>
+
+## 4. Presentation
+<br>
+After I had everything I needed, I put it together into a short powerpoint presentation [HERE](https://github.com/gman4774/Google-DA-Capstone-Cyclistic/blob/main/presentation.odp?raw=true).
