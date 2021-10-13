@@ -199,7 +199,7 @@ write.csv(avg_trips, file='avg_trips.csv')
 I created the following charts in Tableau to better visually represent the data and my results.
 <br>
 
-![Number of rides per day per member type](https://raw.githubusercontent.com/gman4774/Google-DA-Capstone-Cyclistic/main/images/Sheet1.png?token=AUHBCPBXY4XLIXKWUJF4KA3BM4LAQ "number")
+![Number of rides per day per member type](https://raw.githubusercontent.com/gman4774/Google-DA-Capstone-Cyclistic/main/Sheet1.png?token=AUHBCPD3P6KFGK74GBFO2QTBM4L2W "number")
 
 <br>
 
