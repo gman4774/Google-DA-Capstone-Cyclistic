@@ -212,5 +212,7 @@ I created the following charts in Tableau to better visually represent the data 
 <br>
 
 ## 4. Presentation
+
 <br>
+
 After I had everything I needed, I put it together into a short powerpoint presentation [HERE](https://github.com/gman4774/Google-DA-Capstone-Cyclistic/blob/main/presentation.odp?raw=true).
